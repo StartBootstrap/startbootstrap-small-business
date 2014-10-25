@@ -1,2 +1,2 @@
-startbootstrap-small-business
-=============================
+Start Bootstrap - Small Business
+=========
