@@ -1,0 +1,15 @@
+{
+    "name": "startbootstrap-small-business",
+    "title": "Small Business",
+    "version": "4.0.0-alpha",
+    "homepage": "http://startbootstrap.com/template-overviews/small-business",
+    "author": "Start Bootstrap",
+    "license": {
+        "type": "MIT",
+        "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-small-business.git"
+    }
+}
