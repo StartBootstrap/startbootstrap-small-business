@@ -1,7 +1,7 @@
 {
     "title": "Small Business",
     "name": "startbootstrap-small-business",
-    "version": "4.0.0",
+    "version": "4.1.1",
     "description": "A small business HTML template built with Bootstrap",
     "keywords": [
         "css",
@@ -26,7 +26,7 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-small-business.git"
     },
     "dependencies": {
-        "bootstrap": "4.0.0",
+        "bootstrap": "4.1.0",
         "jquery": "3.3.1"
     },
     "devDependencies": {
