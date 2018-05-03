@@ -26,11 +26,11 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-small-business.git"
     },
     "dependencies": {
-        "bootstrap": "4.1.0",
+        "bootstrap": "4.1.1",
         "jquery": "3.3.1"
     },
     "devDependencies": {
-        "browser-sync": "2.23.6",
+        "browser-sync": "2.24.3",
         "gulp": "^3.9.1"
     }
 }
