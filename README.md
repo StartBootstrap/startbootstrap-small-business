@@ -16,7 +16,7 @@
 [![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-small-business/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-small-business)
 [![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-small-business/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-small-business?type=dev)
 
-## Download and Installation
+## Downloads and Installation
 
 To begin using this template, choose one of the following options to get started:
 
