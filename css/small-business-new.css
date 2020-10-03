@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;900&family=Open+Sans&family=Poppins:wght@900&display=swap');
+
+/* 
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif; 
+*/
+
+
+.home-area{
+    height: 90vh;
+    width: 100%;
+    background-color: #CCCCCC;
+}
+
+.header-txt{
+    color: #2d2d2d;
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 900;
+    font-size: 5rem;
+}
+
+.about-sub-head{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.para{
+    font-family: 'Open Sans', sans-serif;
+    color: #7e7e7e;
+    font-size: 0.9rem;
+}
+
+.sub-head-text{
+    color: #2d2d2d;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+}
+
+.card-title{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 1.4rem;
+}
+
+.contact-area{
+    height: 50vh;
+    width: 100%;
+    background-color: #CCCCCC;
+}
